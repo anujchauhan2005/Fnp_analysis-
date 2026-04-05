@@ -66,7 +66,3 @@ The dashboard helps in understanding trends, identifying top-performing products
 
 ## 📷 Dashboard Preview
 ![Dashboard](Dashboard.png)
-
----
-
-## 📁 Project Structure
